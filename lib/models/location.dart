@@ -1,4 +1,4 @@
-import 'location_fact.dart';
+import './location_fact.dart';
 
 class Location {
   final String name;
